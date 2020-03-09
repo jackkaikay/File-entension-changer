@@ -1,5 +1,5 @@
-('C:\\Users\\jkay\\Desktop\\RCU-Anon-Tool\\RCU tool '
- 'exe\\dist\\FileExtensionChange.exe',
+('C:\\Users\\jkay\\Desktop\\File extension '
+ 'changer\\File-entension-changer\\dist\\FileExtensionChange.exe',
  True,
  False,
  False,
@@ -11,8 +11,8 @@
  True,
  'FileExtensionChange.pkg',
  [('PYZ-00.pyz',
-   'C:\\Users\\jkay\\Desktop\\RCU-Anon-Tool\\RCU tool '
-   'exe\\build\\FileExtensionChange\\PYZ-00.pyz',
+   'C:\\Users\\jkay\\Desktop\\File extension '
+   'changer\\File-entension-changer\\build\\FileExtensionChange\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'c:\\users\\jkay\\appdata\\local\\programs\\python\\python37-32\\lib\\struct.pyo',
@@ -30,8 +30,8 @@
    'c:\\users\\jkay\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
    'PYSOURCE'),
   ('FileExtensionChange',
-   'C:\\Users\\jkay\\Desktop\\RCU-Anon-Tool\\RCU tool '
-   'exe\\FileExtensionChange.py',
+   'C:\\Users\\jkay\\Desktop\\File extension '
+   'changer\\File-entension-changer\\FileExtensionChange.py',
    'PYSOURCE'),
   ('python37.dll',
    'c:\\users\\jkay\\appdata\\local\\programs\\python\\python37-32\\python37.dll',
@@ -70,12 +70,12 @@
    'c:\\users\\jkay\\appdata\\local\\programs\\python\\python37-32\\DLLs\\libcrypto-1_1.dll',
    'BINARY'),
   ('base_library.zip',
-   'C:\\Users\\jkay\\Desktop\\RCU-Anon-Tool\\RCU tool '
-   'exe\\build\\FileExtensionChange\\base_library.zip',
+   'C:\\Users\\jkay\\Desktop\\File extension '
+   'changer\\File-entension-changer\\build\\FileExtensionChange\\base_library.zip',
    'DATA'),
   ('FileExtensionChange.exe.manifest',
-   'C:\\Users\\jkay\\Desktop\\RCU-Anon-Tool\\RCU tool '
-   'exe\\build\\FileExtensionChange\\FileExtensionChange.exe.manifest',
+   'C:\\Users\\jkay\\Desktop\\File extension '
+   'changer\\File-entension-changer\\build\\FileExtensionChange\\FileExtensionChange.exe.manifest',
    'BINARY'),
   ('pyi-windows-manifest-filename FileExtensionChange.exe.manifest',
    '',
@@ -83,7 +83,7 @@
  [],
  False,
  False,
- 1580901371,
+ 1581070289,
  [('run.exe',
    'c:\\users\\jkay\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\run.exe',
    'EXECUTABLE')])

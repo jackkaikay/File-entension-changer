@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['FileExtensionChange.py'],
-             pathex=['C:\\Users\\jkay\\Desktop\\RCU-Anon-Tool\\RCU tool exe'],
+             pathex=['C:\\Users\\jkay\\Desktop\\File extension changer\\File-entension-changer'],
              binaries=[],
              datas=[],
              hiddenimports=[],
