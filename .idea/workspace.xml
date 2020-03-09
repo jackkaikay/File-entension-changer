@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="68ed003b-87ab-414c-9de6-ca461fe341bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileExtensionChange.spec" beforeDir="false" afterPath="$PROJECT_DIR$/FileExtensionChange.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/FileExtensionChange/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/FileExtensionChange/Analysis-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/FileExtensionChange/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/FileExtensionChange/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/FileExtensionChange/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/FileExtensionChange/PKG-00.pkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/FileExtensionChange/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/FileExtensionChange/PKG-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/FileExtensionChange/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/FileExtensionChange/PYZ-00.pyz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/FileExtensionChange/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/FileExtensionChange/PYZ-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/FileExtensionChange/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/FileExtensionChange/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/FileExtensionChange/warn-FileExtensionChange.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/FileExtensionChange/warn-FileExtensionChange.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/FileExtensionChange/xref-FileExtensionChange.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/FileExtensionChange/xref-FileExtensionChange.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileExtensionChange.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileExtensionChange.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +16,7 @@
   </component>
   <component name="ProjectId" id="1XO0eI4LQifJa0gk8PmNR2AwRD3" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
